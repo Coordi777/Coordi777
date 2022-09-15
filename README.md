@@ -1,5 +1,5 @@
 - Hi, I’m Xinyu Bai 👋
-- A student in USTC 😆
+- A student in USTC 😆(and now in FDU for master)
 - Welcome😊
 - Here is some my programs 🐱‍🏍
 - You can contact me through QQ,WeChat or Instagram🤞
