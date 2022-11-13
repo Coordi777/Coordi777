@@ -1,5 +1,6 @@
-- Welcome😊, Welcome😊I’m Xinyu Bai 👋
-- A student in FDU for master😆(2022 graduated from USTC)
+- Welcome😊, I’m Xinyu Bai 👋
+- A student in FDU EMWLab for master😆(2022 graduated from USTC)
+- Now, Major in information remote sensing📡 and Research on NeRF-related technologies
 - Here are some my programs 🐱‍🏍
 
 <!---
